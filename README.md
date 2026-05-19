@@ -7,7 +7,7 @@
 <br/>
 
 <div align="right">
-
+<img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="trophy graph"/>
 
 <b> Programming Languages </b><br>
 <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
