@@ -1,13 +1,14 @@
 <div align="right">
-  <img src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="152" />
+  <img src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="152" />  
   <img width="24" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="150" />
+  <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="trophy graph"/>
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="150" />-->
 </div>
 
 <br/>
 
 <div align="right">
-<img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="trophy graph"/>
+
 
 <b> Programming Languages </b><br>
 <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
