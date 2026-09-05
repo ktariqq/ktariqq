@@ -1,6 +1,6 @@
 
 
-<div align="right">
+<div align="left">
   <img width="24" />
   <img align="right" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="trophy graph"/>  
 <img src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="152" />  
