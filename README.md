@@ -1,10 +1,14 @@
+<a href="https://www.readmecodegen.com/custom-github-card-generator">
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=ktariqq&&theme=midnight-purple&showBorder=false&followers=false&following=false&layout=compact" alt="Custom GitHub Stats" />
+</a>
+
 <div align="right">
   <img src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="152" />  
   <img width="24" />
-  <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="trophy graph"/>
  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="150" />-->
 </div>
 
+<img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="trophy graph"/>
 <br/>
 
 <div align="right">
