@@ -1,17 +1,20 @@
-<div align="left">
 
-<img align="left" src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="145" />
-
-<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="145" />
+<!-- Top two graphs -->
+<div>
+  <img src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="145" align="left" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="145" align="left" />
 </div>
 
+<br clear="all" />
 <br>
 
+<!-- Top languages -->
 <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="140" alt="Top Languages" />
 
-
+<!-- Skills -->
 <div align="right">
 <b>Programming Languages</b><br>
+
 <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-5B2C6F?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-4A235A?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
