@@ -2,14 +2,14 @@
 <!-- Top two graphs -->
 <div>
   <img src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="145" align="right" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="145" align="right" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="145" align="left" />
 </div>
 
 <br clear="all" />
 <br>
 
 <!-- Top languages -->
-<img align="right" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="140" alt="Top Languages" />
+<img align="right" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
 
 <!-- Skills -->
 <div align="left">
