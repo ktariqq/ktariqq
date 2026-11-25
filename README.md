@@ -13,51 +13,52 @@
 
 <!-- Skills -->
 <div align="right">
-<b>Programming Languages</b><br>
 
+
+<b>Programming</b><br>
 <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-5B2C6F?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-4A235A?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-7D3C98?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%20%2F%20Embedded%20C-5B2C6F?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-4A235A?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-7D3C98?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-6A0DAD?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<br><br>
-<b>AI / ML</b><br>
+<b>AI / ML & Computer Vision</b><br>
 <img src="https://img.shields.io/badge/PyTorch-6A0DAD?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-5B2C6F?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-4A235A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-7D3C98?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-5B2C6F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-4A235A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TFLite%20Micro-4A235A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/scikit--learn-7D3C98?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5B2C6F?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-4A235A?style=for-the-badge"/>
 
-<br><br>
-<b>Full-Stack & Software</b><br>
-<img src="https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-5B2C6F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<b>Embedded Systems & Hardware</b><br>
+<img src="https://img.shields.io/badge/ESP32-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STM32-5B2C6F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jetson%20Nano-4A235A?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-7D3C98?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/KiCad-6A0DAD?style=for-the-badge&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/FreeCAD-5B2C6F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA%20%2F%20VHDL-4A235A?style=for-the-badge"/>
+
+<b>Geospatial & Earth Observation</b><br>
+<img src="https://img.shields.io/badge/PostGIS-6A0DAD?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDAL-5B2C6F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rasterio-4A235A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GeoPandas-7D3C98?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QGIS-6A0DAD?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-5B2C6F?style=for-the-badge&logo=googleearthengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeoLibre-4A235A?style=for-the-badge"/>
+
+<b>Backend & Infrastructure</b><br>
+<img src="https://img.shields.io/badge/FastAPI-6A0DAD?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-5B2C6F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-4A235A?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-7D3C98?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-6A0DAD?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-5B2C6F?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-4A235A?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-7D3C98?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-6A0DAD?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-5B2C6F?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-4A235A?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-7D3C98?style=for-the-badge&logo=git&logoColor=white"/>
 
-<br><br>
-<b>Embedded & Systems</b><br>
-<img src="https://img.shields.io/badge/Arduino-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-5B2C6F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP32-4A235A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded_C-7D3C98?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MATLAB_Simulink-5B2C6F?style=for-the-badge"/>
 
-<br><br>
-<b>Cloud & Tools</b><br>
-<img src="https://img.shields.io/badge/AWS-6A0DAD?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-5B2C6F?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4A235A?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-7D3C98?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase_DB-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-5B2C6F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-4A235A?style=for-the-badge"/>
 
 </div>
