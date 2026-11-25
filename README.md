@@ -1,10 +1,13 @@
-<img align="left" src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="152" />
+<div align="left">
 
-<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="152" />
+<img align="left" src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="145" />
 
-<br clear="left" />
+<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="145" />
+</div>
 
-<img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
+<br>
+
+<img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ktariqq&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="140" alt="Top Languages" />
 
 
 <div align="right">
@@ -44,8 +47,6 @@
 <img src="https://img.shields.io/badge/FPGA-6A0DAD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MATLAB_Simulink-5B2C6F?style=for-the-badge"/>
 
-</div>
-
 <br><br>
 <b>Cloud & Tools</b><br>
 <img src="https://img.shields.io/badge/AWS-6A0DAD?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -55,3 +56,5 @@
 <img src="https://img.shields.io/badge/Firebase_DB-6A0DAD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-5B2C6F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-4A235A?style=for-the-badge"/>
+
+</div>
