@@ -1,8 +1,8 @@
 
 <!-- Top two graphs -->
 <div>
-  <img src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="145" align="right" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="145" align="left" />
+  <img src="https://streak-stats.demolab.com/?user=ktariqq&theme=midnight-purple&hide_border=true" height="150" align="right" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktariqq&theme=nightowl" height="150" align="left" />
 </div>
 
 <br clear="all" />
